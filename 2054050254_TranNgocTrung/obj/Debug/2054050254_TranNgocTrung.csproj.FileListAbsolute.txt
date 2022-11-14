@@ -1,0 +1,10 @@
+C:\Users\ADMIN\OneDrive\Tài liệu\Kiểm thử phần mềnh\2054050254_TranNgocTrung\2054050254_TranNgocTrung\2054050254_TranNgocTrung\bin\Debug\2054050254_TranNgocTrung.exe.config
+C:\Users\ADMIN\OneDrive\Tài liệu\Kiểm thử phần mềnh\2054050254_TranNgocTrung\2054050254_TranNgocTrung\2054050254_TranNgocTrung\bin\Debug\2054050254_TranNgocTrung.exe
+C:\Users\ADMIN\OneDrive\Tài liệu\Kiểm thử phần mềnh\2054050254_TranNgocTrung\2054050254_TranNgocTrung\2054050254_TranNgocTrung\bin\Debug\2054050254_TranNgocTrung.pdb
+C:\Users\ADMIN\OneDrive\Tài liệu\Kiểm thử phần mềnh\2054050254_TranNgocTrung\2054050254_TranNgocTrung\2054050254_TranNgocTrung\obj\Debug\2054050254_TranNgocTrung.csproj.AssemblyReference.cache
+C:\Users\ADMIN\OneDrive\Tài liệu\Kiểm thử phần mềnh\2054050254_TranNgocTrung\2054050254_TranNgocTrung\2054050254_TranNgocTrung\obj\Debug\2054050254_TranNgocTrung.csproj.SuggestedBindingRedirects.cache
+C:\Users\ADMIN\OneDrive\Tài liệu\Kiểm thử phần mềnh\2054050254_TranNgocTrung\2054050254_TranNgocTrung\2054050254_TranNgocTrung\obj\Debug\_2054050254_TranNgocTrung.Properties.Resources.resources
+C:\Users\ADMIN\OneDrive\Tài liệu\Kiểm thử phần mềnh\2054050254_TranNgocTrung\2054050254_TranNgocTrung\2054050254_TranNgocTrung\obj\Debug\2054050254_TranNgocTrung.csproj.GenerateResource.cache
+C:\Users\ADMIN\OneDrive\Tài liệu\Kiểm thử phần mềnh\2054050254_TranNgocTrung\2054050254_TranNgocTrung\2054050254_TranNgocTrung\obj\Debug\2054050254_TranNgocTrung.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\OneDrive\Tài liệu\Kiểm thử phần mềnh\2054050254_TranNgocTrung\2054050254_TranNgocTrung\2054050254_TranNgocTrung\obj\Debug\2054050254_TranNgocTrung.exe
+C:\Users\ADMIN\OneDrive\Tài liệu\Kiểm thử phần mềnh\2054050254_TranNgocTrung\2054050254_TranNgocTrung\2054050254_TranNgocTrung\obj\Debug\2054050254_TranNgocTrung.pdb
